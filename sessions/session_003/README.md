@@ -8,4 +8,4 @@ https://www.youtube.com/watch?v=WBqU_8swpcM
 
 ## Resources
 [elk stack](https://github.com/deviantony/docker-elk)
-[Policies and explanations](https://github.com/frozenprocess/Tigera-Presentations/tree/master/2023-03-30.container-and-Kubernetes-security-policy-design/04.best-practices-for-securing-a-Kubernetes-environment) to read about policy design.
+[Policies and explanations](https://github.com/frozenprocess/Tigera-Presentations/tree/master/2023-03-30.container-and-Kubernetes-security-policy-design/04.best-practices-for-securing-a-Kubernetes-environment)
