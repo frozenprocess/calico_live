@@ -234,5 +234,7 @@ EOF
 
 ## Resources
 https://docs.tigera.io/calico/latest/networking/gateway-api
+
 https://gateway.envoyproxy.io/docs/tasks/security/secure-gateways/
+
 https://cert-manager.io/docs/
